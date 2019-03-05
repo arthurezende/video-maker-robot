@@ -1,0 +1,19 @@
+{
+  "name": "video-maker-robot",
+  "version": "1.0.0",
+  "description": "Project of an robot that makes videos automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurezende/video-maker-robot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurezende/video-maker-robot/issues"
+  },
+  "homepage": "https://github.com/arthurezende/video-maker-robot#readme"
+}
